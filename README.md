@@ -1,6 +1,6 @@
 # Reproduction of Gut Microbiome Heritability Paper
 
-Link to paper [here](https://elifesciences.org/articles/75419)!
+Link to paper [here](https://elifesciences.org/articles/75419)! Figure 1 reproduction is [here](https://github.com/html1101/gut-genetic-mapping/blob/main/analysis/figure_1.ipynb).
 
 ## Data available from Github
 
